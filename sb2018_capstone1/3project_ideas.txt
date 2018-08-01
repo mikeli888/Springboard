@@ -1,0 +1,27 @@
+Hello all,
+Below are my Capstone Project ideas. Any feedback would be greatly appreciated!
+
+Idea 1: Factors that affect the price of AirBNB listings
+=================================================================================
+I want to build a model to predict the rental prices of AirBNB listings based on various factors such as location, size, etc.
+
+Data: AirBNB: http://insideairbnb.com/get-the-data.html
+
+Idea 2: Factors that affect Medicare doctors' performance
+=================================================================================
+I want to build a model to predict Medicare doctors' performance in different areas (eg Oncology, Preventive Care and Screening, etc) based on various factors such as locations (state, zip), primary specialty to whether the doctor uses electronic health records.
+
+Data: https://data.medicare.gov/data/physician-compare
+
+Idea 3: Impact from school districts' performances on number of Foreclosure properties
+=================================================================================
+I want to compare number of Foreclosure properties by ZIP codes against school district performances in same period to prove that there is correlation between the 2 set of data. My theory is that rising school performances will result in less Foreclosure properties.
+
+Data: 
+1) 2014-2017 Foreclosured Data: 
+      https://data.lacity.org/A-Well-Run-City/2017-Registered-Foreclosure-Properties/cf34-3pfe
+      https://data.lacity.org/A-Well-Run-City/2016-Registered-Foreclosure-Properties/4sbs-dcfn
+      .... 
+2) School Districts Performance Data: https://www.ed-data.org/Comparisons?compType=districts (Data from 2012 to 2017)
+
+3) School Districts and ZIP Codes lookup: http://proximityone.com/zip-sd.htm
